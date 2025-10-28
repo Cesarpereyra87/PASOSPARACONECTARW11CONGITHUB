@@ -1,4 +1,4 @@
-name: SonarQube (stage)
+name: SonarQube (cesartest)
 on:
   push:
     branches: [ "main" ]
